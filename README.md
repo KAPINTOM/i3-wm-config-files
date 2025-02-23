@@ -70,20 +70,6 @@ This configuration is designed to be modular and easy to customize. Here are som
 - **Autostart**: Add or remove applications in the `~/.config/i3/autostart` script.
 - **i3bar**: Customize the status bar in the `~/.config/i3/i3status.conf` file.
 
----
-
-## Screenshots
-
-Here are some screenshots of my i3 setup:
-
-![Screenshot 1](screenshots/screenshot1.png)
-*Clean and minimal workspace.*
-
-![Screenshot 2](screenshots/screenshot2.png)
-*Customized i3bar with system stats.*
-
----
-
 ## Dependencies
 
 This configuration relies on several external tools and utilities. Ensure you have the following installed:
